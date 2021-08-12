@@ -1,4 +1,5 @@
 # popcat-clicker - demo
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/mXITeOTDApg/0.jpg)](http://www.youtube.com/watch?v=mXITeOTDApg)
 # set up
 ## install your webdriver
 https://chromedriver.chromium.org/downloads
